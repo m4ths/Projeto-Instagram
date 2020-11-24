@@ -10,9 +10,9 @@
 
 ```
 
- ![](C:\Users\andr3\Documents\Projetos\ProjetoInstagram\img\img-Desktop.JPG)
+ ![](https://raw.githubusercontent.com/m4ths/Projeto-Instagram/master/img/img-Desktop.JPG)
 
 ## Versão Mobile
 
-![img-mobile](C:\Users\andr3\Documents\Projetos\ProjetoInstagram\img\img-mobile.JPG)
+![img-mobile](https://raw.githubusercontent.com/m4ths/Projeto-Instagram/master/img/img-mobile.JPG)
 
