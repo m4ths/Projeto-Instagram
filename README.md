@@ -7,13 +7,12 @@
 ## Versão Desktop
 
 ```
-![Exemple](/img/img-Desktop)
 
 ```
 
- 
+ ![](C:\Users\andr3\Documents\Projetos\ProjetoInstagram\img\img-Desktop.JPG)
 
 ## Versão Mobile
 
-![img-mobile](/img/img-mobile)
+![img-mobile](C:\Users\andr3\Documents\Projetos\ProjetoInstagram\img\img-mobile.JPG)
 
